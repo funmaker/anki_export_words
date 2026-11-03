@@ -17,11 +17,12 @@ to a text file.
 
 ## Usage
 
-Pick any of these:
-
-- Use **Tools → Export words...**
 - Click on deck's gear/options menu → **Export words...**
+- Or use **Tools → Export words...**
 
 ## Installation
 
-**Tools → Add-ons → Install from file...** in Anki.
+Copy and paste `1464352147` into Anki 2.1, or  
+Download the newest [Release](/releases) and use **Tools → Add-ons → Install from file...**   
+
+AnkiWeb Addon page: https://ankiweb.net/shared/info/1464352147
