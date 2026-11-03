@@ -4,6 +4,8 @@
 
 # Export Words (Anki add-on)
 
+![Screenshot](/.github/ss.png?raw=true)
+
 Exports every word from a deck as a comma-separated list, ordered from the
 oldest card to the newest.  The result can be copied to the clipboard or saved
 to a text file.
